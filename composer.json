@@ -1,8 +1,5 @@
 {
     "name": "elie/kafka-queue",
-    "require": {
-        "laravel/framework": "10.*"
-    },
     "autoload": {
         "psr-4": {
             "Elie\\KafkaQueue\\": "src/"
