@@ -2,7 +2,6 @@
 
 namespace Kafka;
 
-use App\Jobs\OrderCompleted;
 use Exception;
 use Illuminate\Contracts\Queue\Queue as QueueContract;
 use Illuminate\Queue\Queue;

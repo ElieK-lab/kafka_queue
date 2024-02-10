@@ -2,8 +2,6 @@
 
 namespace Kafka;
 
-use App\Queues\KafkaQueue;
-use \RdKafka\Conf;
 use Illuminate\Queue\Connectors\ConnectorInterface;
 
 class KafkaConnecter implements ConnectorInterface
